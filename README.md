@@ -34,12 +34,13 @@ Clone the repository and and use a browser to open the index.html to view the co
 
 ### Deployment
 
-The HTML files can be deployed using the LAMP for more details (https://lakebrains.com/how-to-deploy-single-website-using-lamp-on-ubuntu-server/)
+The HTML files can be deployed using the LAMP for more details (https://lakebrains.com/how-to-deploy-single-website-using-lamp-on-ubuntu-server/). Currently deployed using github pages [here](https://bhskr44.github.io/)
 
 ## Authors
 
 👤 **Bhaskar Ranjan Bora**
 
+- Website:
 - GitHub: [@bhskr44](https://github.com/bhskr44)
 - Twitter: [@bhskr44](https://twitter.com/bhskr44)
 - LinkedIn: [bhskr44](https://linkedin.com/in/bhskr44)
