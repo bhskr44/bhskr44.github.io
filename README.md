@@ -2,7 +2,7 @@
 
 Personal portfolio of **Bhaskar Ranjan Bora**, Senior Software Engineer and founder of [COMPLIT](https://complit.in), with 5+ years of experience building secure web platforms in Laravel/PHP, React and PostgreSQL.
 
-Live site: [https://bhskr44.github.io/My-Portfolio-v2/](https://bhskr44.github.io/My-Portfolio-v2/)
+Live site: [https://bhskr44.github.io/](https://bhskr44.github.io/)
 
 ## What's on the site
 
