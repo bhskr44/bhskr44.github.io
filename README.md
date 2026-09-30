@@ -1,50 +1,43 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Bhaskar Ranjan Bora — Portfolio
 
-# MyPortfolio
+Personal portfolio of **Bhaskar Ranjan Bora**, Senior Software Engineer and founder of [COMPLIT](https://complit.in), with 5+ years of experience building secure web platforms in Laravel/PHP, React and PostgreSQL.
 
-For the first milestone in the process of creating your portfolio website, we need to set up a new repository and prepare it for development using best practices (e.g. linters). build the first 2 sections of the mobile website using the template we choose a predetermined designed given by Microverse.
+Live site: [https://bhskr44.github.io/My-Portfolio-v2/](https://bhskr44.github.io/My-Portfolio-v2/)
 
-:heavy_check_mark: A .html File added
-:heavy_check_mark: A .css file added
-:heavy_check_mark: Linters added
-:heavy_check_mark: .gitignore file added
-:heavy_check_mark: Description for the project is added
+## What's on the site
 
-## Built With
+- Experience: COMPLIT, EY, CDAC and NESAC
+- Selected open-source projects (rendered from `js/main.js`)
+- Skills, education and contact links
 
-- Major languages : HTML, JavaScript, CSS
-- Frameworks: Bootstrap
-- Technologies used: HTML, CSS, GIT, Linters
+## Built with
 
-## Getting Started
+- HTML, CSS and vanilla JavaScript (no build step)
+- ESLint, Stylelint and webhint for linting
 
-To get a local copy up and running follow these simple example steps.
+## Run locally
 
-### Prerequisites
+Clone the repository and open `index.html` in a browser.
 
-No specific requirements are required for this repository.
+To run the linters:
 
-### Setup
+```bash
+npm install
+npx eslint .
+npx stylelint "**/*.css"
+```
 
-A browser is required to be installed for view the contents and an Code editor to edit the code.
+## Updating projects
 
-### Install
+Projects are defined in the `projects` array at the top of `js/main.js`. Add or edit an entry there and it appears in the "Selected work" grid.
 
-Clone the repository and and use a browser to open the index.html to view the contents.
+## Contact
 
-### Deployment
-
-The HTML files can be deployed using the LAMP for more details (https://lakebrains.com/how-to-deploy-single-website-using-lamp-on-ubuntu-server/). Currently deployed using github pages [here]https://bhskr44.github.io/
-
-## Authors
-
-👤 **Bhaskar Ranjan Bora**
-
-- Website: [https://bhskr44.github.io/](https://bhskr44.github.io/)
+- Email: [bhaskarranjan44@gmail.com](mailto:bhaskarranjan44@gmail.com)
+- LinkedIn: [bhaskar-ranjan](https://www.linkedin.com/in/bhaskar-ranjan)
 - GitHub: [@bhskr44](https://github.com/bhskr44)
-- Twitter: [@bhskr44](https://twitter.com/bhskr44)
-- LinkedIn: [bhskr44](https://linkedin.com/in/bhskr44)
+- Company: [complit.in](https://complit.in)
 
-## 📝 License
+## License
 
 This project is [MIT](./LICENSE) licensed.

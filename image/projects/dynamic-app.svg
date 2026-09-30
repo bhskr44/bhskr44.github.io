@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 400" role="img" aria-labelledby="t">
+  <title id="t">JSON from an API being rendered into a mobile app screen</title>
+  <rect width="580" height="400" fill="#e9ecef"/>
+  <!-- json card -->
+  <g transform="translate(40 80)">
+    <rect x="6" y="6" width="230" height="230" fill="#15202b"/>
+    <rect width="230" height="230" fill="#fff" stroke="#15202b" stroke-width="3"/>
+    <g font-family="DM Mono, monospace" font-size="13">
+      <text x="18" y="34" fill="#15202b">{</text>
+      <text x="34" y="58" fill="#2458e6">"type"<tspan fill="#15202b">: "column",</tspan></text>
+      <text x="34" y="82" fill="#2458e6">"children"<tspan fill="#15202b">: [</tspan></text>
+      <text x="50" y="106" fill="#15202b">{ <tspan fill="#2458e6">"banner"</tspan> },</text>
+      <text x="50" y="130" fill="#15202b">{ <tspan fill="#2458e6">"text"</tspan> },</text>
+      <text x="50" y="154" fill="#15202b">{ <tspan fill="#2458e6">"button"</tspan>,</text>
+      <text x="66" y="178" fill="#15202b"><tspan fill="#2458e6">"action"</tspan>: "open" }</text>
+      <text x="34" y="202" fill="#15202b">]</text>
+      <text x="18" y="220" fill="#15202b">}</text>
+    </g>
+  </g>
+  <!-- arrow -->
+  <g stroke="#15202b" stroke-width="3" fill="none">
+    <path d="M295 200h70"/>
+    <path d="M352 188l14 12-14 12"/>
+  </g>
+  <rect x="300" y="160" width="58" height="22" fill="#d9f99d"/>
+  <text x="329" y="175" text-anchor="middle" font-family="DM Mono, monospace" font-size="11" fill="#15202b">render</text>
+  <!-- phone -->
+  <g transform="translate(395 50)">
+    <rect width="150" height="300" rx="22" fill="#15202b"/>
+    <rect x="10" y="18" width="130" height="264" rx="12" fill="#fff"/>
+    <rect x="22" y="36" width="106" height="72" fill="#d9f99d"/>
+    <path d="M34 96l22-26 18 16 14-12 30 22" stroke="#15202b" stroke-width="3" fill="none"/>
+    <rect x="22" y="124" width="94" height="10" fill="#15202b"/>
+    <rect x="22" y="142" width="106" height="7" fill="#d9d9d4"/>
+    <rect x="22" y="156" width="82" height="7" fill="#d9d9d4"/>
+    <rect x="22" y="232" width="106" height="30" fill="#2458e6"/>
+    <rect x="50" y="244" width="50" height="6" fill="#fff"/>
+  </g>
+</svg>

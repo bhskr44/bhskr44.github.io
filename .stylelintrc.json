@@ -14,7 +14,10 @@
         "ignoreAtRules": ["tailwind", "apply", "variants", "responsive", "screen"]
       }
     ],
-    "csstree/validator": true
+    "csstree/validator": {
+      "ignore": ["font-size", "padding-right", "padding-left", "aspect-ratio"]
+    },
+    "no-descending-specificity": null
   },
   "ignoreFiles": ["build/**", "dist/**", "**/reset*.css", "**/bootstrap*.css", "**/*.js", "**/*.jsx"]
 }

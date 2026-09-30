@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 400" role="img" aria-labelledby="t">
+  <title id="t">A chat dashboard with a conversation list and message bubbles</title>
+  <rect width="580" height="400" fill="#e9ecef"/>
+  <g transform="translate(50 50)">
+    <rect x="6" y="6" width="480" height="300" fill="#15202b"/>
+    <rect width="480" height="300" fill="#fff" stroke="#15202b" stroke-width="3"/>
+    <!-- sidebar -->
+    <rect x="0" y="0" width="150" height="300" fill="#15202b"/>
+    <g>
+      <rect x="0" y="54" width="150" height="50" fill="#2458e6"/>
+      <circle cx="26" cy="79" r="13" fill="#d9f99d"/>
+      <rect x="48" y="70" width="70" height="7" fill="#fff"/>
+      <rect x="48" y="84" width="50" height="6" fill="#c6ced8"/>
+      <circle cx="26" cy="131" r="13" fill="#5e6975"/>
+      <rect x="48" y="122" width="64" height="7" fill="#fff"/>
+      <rect x="48" y="136" width="44" height="6" fill="#5e6975"/>
+      <circle cx="26" cy="181" r="13" fill="#5e6975"/>
+      <rect x="48" y="172" width="74" height="7" fill="#fff"/>
+      <rect x="48" y="186" width="40" height="6" fill="#5e6975"/>
+      <circle cx="26" cy="231" r="13" fill="#5e6975"/>
+      <rect x="48" y="222" width="58" height="7" fill="#fff"/>
+      <rect x="48" y="236" width="48" height="6" fill="#5e6975"/>
+      <text x="16" y="32" font-family="DM Mono, monospace" font-size="12" fill="#d9f99d">INBOX · 12</text>
+    </g>
+    <!-- header -->
+    <path d="M150 44h330" stroke="#d9d9d4" stroke-width="2"/>
+    <circle cx="174" cy="22" r="11" fill="#d9f99d" stroke="#15202b" stroke-width="2"/>
+    <rect x="194" y="16" width="90" height="10" fill="#15202b"/>
+    <circle cx="456" cy="22" r="5" fill="#2458e6"/>
+    <!-- messages -->
+    <rect x="170" y="64" width="170" height="36" rx="4" fill="#e9ecef"/>
+    <rect x="182" y="76" width="130" height="7" fill="#5e6975"/>
+    <rect x="182" y="88" width="80" height="5" fill="#d9d9d4"/>
+    <rect x="290" y="114" width="170" height="36" rx="4" fill="#d9f99d"/>
+    <rect x="302" y="126" width="140" height="7" fill="#15202b"/>
+    <rect x="302" y="138" width="60" height="5" fill="#5e6975"/>
+    <rect x="170" y="164" width="140" height="36" rx="4" fill="#e9ecef"/>
+    <rect x="182" y="176" width="100" height="7" fill="#5e6975"/>
+    <rect x="320" y="214" width="140" height="28" rx="4" fill="#d9f99d"/>
+    <rect x="332" y="225" width="90" height="7" fill="#15202b"/>
+    <!-- composer -->
+    <rect x="166" y="258" width="250" height="28" fill="#fff" stroke="#d9d9d4" stroke-width="2"/>
+    <rect x="428" y="258" width="38" height="28" fill="#2458e6"/>
+    <path d="M440 266l16 6-16 6 3-6z" fill="#fff"/>
+  </g>
+</svg>
