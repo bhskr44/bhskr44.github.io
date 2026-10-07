@@ -1,5 +1,14 @@
 const projects = [
   {
+    title: 'Dev Junk Cleaner',
+    type: 'Desktop app',
+    description:
+      'A portable Windows app that frees disk space for developers by finding re-creatable folders like node_modules, vendor and build caches, duplicate large files, and C: drive clutter, with safety checks before anything is deleted.',
+    stack: ['C#', '.NET Framework', 'Windows'],
+    source: 'https://github.com/bhskr44/dev-junk-cleaner',
+    image: 'image/projects/dev-junk-cleaner.svg',
+  },
+  {
     title: 'Play Store Screenshot Generator',
     type: 'Developer tool',
     description:
